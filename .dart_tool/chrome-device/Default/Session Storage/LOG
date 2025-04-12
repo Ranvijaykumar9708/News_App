@@ -1,0 +1,70 @@
+2025/04/12-15:22:50.435 e5c82 Reusing MANIFEST /private/var/folders/16/ppr1gpz547gggy_8vmqyb_bc0000gn/T/flutter_tools.CXQ7gs/flutter_tools_chrome_device.60Nui4/Default/Session Storage/MANIFEST-000001
+2025/04/12-15:22:50.437 e5c82 Recovering log #7
+2025/04/12-15:22:50.437 e5c82 Reusing old log /private/var/folders/16/ppr1gpz547gggy_8vmqyb_bc0000gn/T/flutter_tools.CXQ7gs/flutter_tools_chrome_device.60Nui4/Default/Session Storage/000007.log 
+2025/04/12-15:22:50.438 e5c82 Delete type=0 #4
+2025/04/12-15:22:50.438 e5c82 Delete type=0 #3
+2025/04/12-15:23:32.851 e5c84 Level-0 table #11: started
+2025/04/12-15:23:32.858 e5c84 Level-0 table #11: 81160 bytes OK
+2025/04/12-15:23:32.861 e5c84 Delete type=0 #7
+2025/04/12-15:26:04.280 e5c82 Level-0 table #13: started
+2025/04/12-15:26:04.283 e5c82 Level-0 table #13: 16536 bytes OK
+2025/04/12-15:26:04.288 e5c82 Delete type=0 #10
+2025/04/12-15:28:04.279 e5c84 Level-0 table #15: started
+2025/04/12-15:28:04.285 e5c84 Level-0 table #15: 11679 bytes OK
+2025/04/12-15:28:04.288 e5c84 Delete type=0 #12
+2025/04/12-15:30:04.277 e5c82 Level-0 table #17: started
+2025/04/12-15:30:04.286 e5c82 Level-0 table #17: 11687 bytes OK
+2025/04/12-15:30:04.292 e5c82 Delete type=0 #14
+2025/04/12-15:30:04.295 e5c82 Compacting 4@0 + 1@1 files
+2025/04/12-15:30:04.302 e5c82 Generated table #18@0: 200 keys, 89586 bytes
+2025/04/12-15:30:04.302 e5c82 Compacted 4@0 + 1@1 files => 89586 bytes
+2025/04/12-15:30:04.304 e5c82 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/12-15:30:04.305 e5c82 Delete type=2 #15
+2025/04/12-15:30:04.305 e5c82 Delete type=2 #17
+2025/04/12-15:30:04.305 e5c82 Delete type=2 #13
+2025/04/12-15:30:04.305 e5c82 Delete type=2 #11
+2025/04/12-15:30:04.305 e5c82 Delete type=2 #8
+2025/04/12-15:32:04.272 e6295 Level-0 table #20: started
+2025/04/12-15:32:04.278 e6295 Level-0 table #20: 11688 bytes OK
+2025/04/12-15:32:04.282 e6295 Delete type=0 #16
+2025/04/12-15:34:04.268 e5c82 Level-0 table #22: started
+2025/04/12-15:34:04.272 e5c82 Level-0 table #22: 11686 bytes OK
+2025/04/12-15:34:04.274 e5c82 Delete type=0 #19
+2025/04/12-15:36:04.265 e6295 Level-0 table #24: started
+2025/04/12-15:36:04.272 e6295 Level-0 table #24: 11692 bytes OK
+2025/04/12-15:36:04.276 e6295 Delete type=0 #21
+2025/04/12-15:38:04.262 e6295 Level-0 table #26: started
+2025/04/12-15:38:04.266 e6295 Level-0 table #26: 11685 bytes OK
+2025/04/12-15:38:04.269 e6295 Delete type=0 #23
+2025/04/12-15:38:04.271 e6295 Compacting 4@0 + 1@1 files
+2025/04/12-15:38:04.277 e6295 Generated table #27@0: 200 keys, 89585 bytes
+2025/04/12-15:38:04.277 e6295 Compacted 4@0 + 1@1 files => 89585 bytes
+2025/04/12-15:38:04.278 e6295 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/12-15:38:04.279 e6295 Delete type=2 #20
+2025/04/12-15:38:04.279 e6295 Delete type=2 #22
+2025/04/12-15:38:04.279 e6295 Delete type=2 #26
+2025/04/12-15:38:04.279 e6295 Delete type=2 #18
+2025/04/12-15:38:04.279 e6295 Delete type=2 #24
+2025/04/12-15:40:04.265 e5c82 Level-0 table #29: started
+2025/04/12-15:40:04.269 e5c82 Level-0 table #29: 11688 bytes OK
+2025/04/12-15:40:04.271 e5c82 Delete type=0 #25
+2025/04/12-15:42:04.262 e5c84 Level-0 table #31: started
+2025/04/12-15:42:04.266 e5c84 Level-0 table #31: 11688 bytes OK
+2025/04/12-15:42:04.270 e5c84 Delete type=0 #28
+2025/04/12-15:44:04.259 e6295 Level-0 table #33: started
+2025/04/12-15:44:04.263 e6295 Level-0 table #33: 11683 bytes OK
+2025/04/12-15:44:04.265 e6295 Delete type=0 #30
+2025/04/12-15:46:04.255 e6295 Level-0 table #35: started
+2025/04/12-15:46:04.259 e6295 Level-0 table #35: 11690 bytes OK
+2025/04/12-15:46:04.261 e6295 Delete type=0 #32
+2025/04/12-15:46:04.261 e6295 Compacting 4@0 + 1@1 files
+2025/04/12-15:46:04.264 e6295 Generated table #36@0: 200 keys, 89587 bytes
+2025/04/12-15:46:04.264 e6295 Compacted 4@0 + 1@1 files => 89587 bytes
+2025/04/12-15:46:04.265 e6295 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/12-15:46:04.266 e6295 Delete type=2 #29
+2025/04/12-15:46:04.266 e6295 Delete type=2 #35
+2025/04/12-15:46:04.266 e6295 Delete type=2 #33
+2025/04/12-15:46:04.266 e6295 Delete type=2 #27
+2025/04/12-15:46:04.266 e6295 Delete type=2 #31
+2025/04/12-15:46:46.225 e5c84 Level-0 table #38: started
+2025/04/12-15:46:46.245 e5c84 Level-0 table #38: 11687 bytes OK
